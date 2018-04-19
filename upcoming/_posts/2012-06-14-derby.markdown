@@ -1,0 +1,17 @@
+---
+title: BPA Passing Camp:<br>Adam Behrends
+subtitle: 16th June 2018 @ Derby
+layout: default
+modal-id: 3
+date: 2014-06-16
+img: 2018_06_16.jpg
+thumbnail: 2018_06_16.jpg
+alt: football
+event-date: 16th June 2018
+who: All
+event-type: Passing Camp
+event-link: https://www.facebook.com/events/208674916396224/
+tickets-url: https://goo.gl/forms/88gu4mpt7LVeAllR2
+description: We are pleased to welcome Coach Adam Behrends of IMG Academy Football to the BPA. Coach Behrends is the quarterback coach with IMG Academy in Bradenton, Florida. Adam has made an impact with the IMG Academy Pre-Combine/Draft Training program. With the Combine program, he has worked with several NFL quarterbacks. Those players include the likes of Seattle Seahawks QB and Super Bowl champion Russell Wilson, Washington Redskins QB Kirk Cousins, Pittsburgh Steelers QB Josh Dobbs, Miami Dolphins QB Ryan Tannehill and Minnesota Vikings QB Teddy Bridgewater. <p>As a coach with the varsity football program, Adam has helped guide the development of dozens of top NCAA prospects. Among the players he has worked with are the likes of Alabama Football RB Bo Scarbrough, Florida State Seminoles QB Deondre Francois and Ole Miss Football QB Shea Patterson, all of whom were selected to the Under Armour (Scarbrough, Francois) and All-American Bowl games (Patterson). Notably, Patterson bagged Army-All American Game MVP honors in 2015, on the heels of guiding IMG Academy to its first undefeated regular season. <p>Coach will be here to deliver a passing camp on June 16th at Derby University. If you want elite level coaching and experience and knowledge from one of the best coaches in the game. Sign up now!
+
+---
