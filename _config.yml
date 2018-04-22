@@ -16,19 +16,19 @@ people:
     - title: twitter
       url: https://twitter.com/tkharchi
 
-- name: Coach 2
-  pic: 2
-  position: Coach
+- name: Zach Shaw
+  pic: zach_shaw
+  position: Guest Coach - Europes Elite
   social:
-    - title: twitter
-      url: #
+    - title: facebook
+      url: https://www.facebook.com/events/413634979074036/
 
-- name: Coach 3
-  pic: 3
-  position: Coach
+- name: Adam Behrands
+  pic: adam_behrands
+  position: Guest Coach - IMG Academy
   social:
-    - title: twitter
-      url: #
+    - title: facebook
+      url: https://www.facebook.com/events/208674916396224/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
