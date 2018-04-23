@@ -11,6 +11,6 @@ event-date: 20th May 2018
 who: Ages 13-19
 event-type: Combine Camp
 event-link: https://www.facebook.com/events/191059271686486/
-tickets-url: N/A
+tickets-url: https://www.facebook.com/events/191059271686486/
 description: We are proud to announce our 2nd FREE Level Up Combine Camp will take place in Nuneaton, United Kingdom on May 20th, 2018. This will be a one day combine camp for players 13-19 that will include combine testing and a college seminar. All Campers will receive a camp shirt, verified testing numbers from Dashr Performance Testing Systems and a PAI score from tracking football that will be distributed to college coaches in America. Save the date!
 ---
