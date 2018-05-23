@@ -212,7 +212,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #DBDBDB;
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
@@ -298,7 +298,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 50px;
 }
@@ -376,6 +376,11 @@ section3 {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#logo-container img {
+   width: 25%;
+   height: auto;
 }
 
 #portfolio .portfolio-item {
