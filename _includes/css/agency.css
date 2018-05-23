@@ -381,6 +381,8 @@ section3 {
 #logo-container img {
    width: 25%;
    height: auto;
+   padding-left: 25px;
+   padding-top: 25px;
 }
 
 #portfolio .portfolio-item {
